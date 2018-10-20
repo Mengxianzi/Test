@@ -1,0 +1,53 @@
+*{
+    padding: 0%;
+    margin: 0;
+    list-style-type:none;
+}
+input{
+    float: left;
+}
+#hed{
+    width: 800px;
+    height: 150px;
+    margin:auto;
+}
+#link{
+    background: #f2f2f2;
+    width: 700px;
+    height: 55px;
+    border: 0;
+    padding: 10px;
+    font-size: 16px;
+}
+#put{
+    background: #4CAF50;
+    width: 100px;
+    height: 55px;
+    border: 0;
+    padding: 15px;
+    color: #FFFFFF;
+    font-size: 14px;
+    cursor: pointer;
+}
+p{
+    margin-top: 2%;
+    text-align: center;
+    font-size: 18px;
+    color: #8c8c8c;
+}
+li{
+    float: left;
+    margin: 15px 35px 0px 0px;
+    color: #8c8c8c;
+    font-size:15px;
+    font-family: 新宋体;
+}
+#mid{
+    width: 800px;
+    height: 100px;
+    margin:auto;
+}
+#putMsg{
+    text-align: center;
+    vertical-align: middle;
+}
